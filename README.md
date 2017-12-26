@@ -1,1 +1,1 @@
-#My first rails app
+My first rails app

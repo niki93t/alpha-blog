@@ -10,11 +10,11 @@ $navbar-default-bg: black;
   text-transform: uppercase;
   letter-spacing: -1px;
   font-weight: bold;
-}
 
-#logo:hover {
-  color: #fff;
-  text-decoration: none;
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
 }
 
 .center {
